@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 var SignaturePad = (function (document) {
     "use strict";
 
